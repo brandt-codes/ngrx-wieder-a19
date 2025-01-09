@@ -1,9 +1,9 @@
 {
   "name": "ngrx-wieder",
-  "version": "12.0.0",
-  "author": "Nils Melhorn <mail@nils-mehlhorn.de> (https://nils-mehlhorn.de)",
-  "description": "Lightweight undo-redo for NgRx",
-  "homepage": "https://github.com/nilsmehlhorn/ngrx-wieder",
+  "version": "1.0.0",
+  "author": "Alexander Brandt <alex@brandt.codes> (https://brandt.codes)",
+  "description": "Clone of ngrx-wieder by Nils Mehlhorn",
+  "homepage": "https://github.com/brandt-codes/ngrx-wieder-a19",
   "keywords": [
     "undo",
     "redo",
@@ -15,16 +15,16 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/nilsmehlhorn/ngrx-wieder.git"
+    "url": "https://github.com/brandt-codes/ngrx-wieder-a19.git"
   },
   "bugs": {
-    "url": "https://github.com/nilsmehlhorn/ngrx-wieder/issues"
+    "url": "https://github.com/brandt-codes/ngrx-wieder-a19/issues"
   },
   "license": "MIT",
   "peerDependencies": {
-    "@angular/common": "^18.0.0",
-    "@angular/core": "^18.0.0",
-    "@ngrx/store": "^18.0.0",
+    "@angular/common": "^19.0.0",
+    "@angular/core": "^19.0.0",
+    "@ngrx/store": "^19.0.0",
     "immer": "6.X - 10.X"
   },
   "dependencies": {
